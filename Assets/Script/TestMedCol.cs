@@ -6,5 +6,5 @@ public class TestMedCol : MonoBehaviour
 {
     
 
-    // hej hej hej hej hjej eqknakjlnjaslkdmjsd
+    //nya färdnknfklasdn
 }
