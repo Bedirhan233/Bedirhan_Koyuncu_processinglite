@@ -2708,6 +2708,34 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1636516297621178784, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_Size.y
+      value: 0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 1636516297621178784, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282774985584618067, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.041
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282774985584618067, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282774985584618067, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9920901
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282774985584618067, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12552783
+      objectReference: {fileID: 0}
+    - target: {fileID: 3282774985584618067, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 14.422
+      objectReference: {fileID: 0}
     - target: {fileID: 6287172442341729171, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.469178
@@ -2760,6 +2788,34 @@ PrefabInstance:
       propertyPath: Score
       value: 
       objectReference: {fileID: 2026478450}
+    - target: {fileID: 7581512358589459484, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: FirstEnemyDamage
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7581512358589459484, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: SecondEnemyDamage
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8643215724708596810, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 8643215724708596810, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.045
+      objectReference: {fileID: 0}
+    - target: {fileID: 8643215724708596810, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9982203
+      objectReference: {fileID: 0}
+    - target: {fileID: 8643215724708596810, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.05963358
+      objectReference: {fileID: 0}
+    - target: {fileID: 8643215724708596810, guid: 07bb1878c5c261e4491ae165117991ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -6.838
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
